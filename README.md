@@ -8,4 +8,4 @@ https://github.com/vivien/i3blocks
 ```
 
 ## View
-![screen.png]./screenshots/screen.png
+![./screenshots/screen.png](./screenshots/screen.png)
