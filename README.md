@@ -9,3 +9,5 @@ https://github.com/vivien/i3blocks
 
 ## View
 ![./screenshots/screen.png](./screenshots/screen.png)
+
+![./screenshots/i3-bar.png](./screenshots/i3-bar.png)
