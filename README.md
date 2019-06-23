@@ -1,5 +1,5 @@
 # i3-settings
-Ubuntu i3 settings, including audio and touchpad handling
+Backup for Ubuntu i3 settings, including audio and touchpad handling
 
 ## Help
 Required instalation:
